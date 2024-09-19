@@ -16,3 +16,9 @@ ul, ol {
     list-style-position: inside;
     text-align: center;
 }
+
+.image-container{
+    display:flex;
+    justify-content: center;
+    margin: 20px;
+}
