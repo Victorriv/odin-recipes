@@ -17,7 +17,7 @@ ul, ol {
     text-align: center;
 }
 
-.image-container{
+/* .image-container{
     display:flex;
     justify-content: center;
     margin: 20px;
@@ -26,4 +26,5 @@ ul, ol {
 .image-container{
     max-width: 100px;
     height: auto;
-}
+} */
+
