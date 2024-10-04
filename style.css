@@ -24,6 +24,12 @@ ul, ol {
 
 }
 
+button{
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+}
+
 /* .image-container{
     display:flex;
     justify-content: center;
